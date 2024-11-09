@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="#" width="200"/>
+  <img src="https://github.com/kongruksiamza/game-guideline/blob/7a6c9b67886f35a390315e8ceef62912baf4698b/038-games.svg" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
