@@ -45,7 +45,7 @@
 ## Unity
 คือ Game Engine สำหรับการพัฒนาเกมในรูปแบบ 2 มิติและ 3 มิติที่สามารถทำงานข้าม Platform ได้ ทั้งรูปแบบ Desktop , Mobile และ Web โดยประกอบด้วย API สำหรับช่วยเหลือนักพัฒนาเกมในด้านการเขียน Script โดยภาษาโปรแกรมที่ใช้เขียนคือ **ภาษา C#** 
 
-|เครื่องมือ|หัวข้อ|หมายเหตุ|
+|เครื่องมือ|หัวข้อ|ข้อกำหนด|
 |:----:|:-------:|:-------------:|
 |![logo](https://skillicons.dev/icons?i=cs)|[เขียนโปรแกรมภาษา C# สำหรับผู้เริ่มต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMAq2fsXLKzGS1eFNxl0-z0I)|  - |
 |![logo](https://skillicons.dev/icons?i=unity)|[Unity เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMDXsV5Dr4DJ_xkLFBpqSg-i)|  ต้องมีพื้นฐาน C# |
