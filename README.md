@@ -45,4 +45,4 @@
 - [https://free-game-assets.itch.io/](https://free-game-assets.itch.io/) รวบรวมแหล่งเว็บไซต์และ Assets ฟรีแยกเป็นหมวดหมู่สำหรับการพัฒนาเกมแนว 2D 
 - [https://www.kenney.nl/assets](https://www.kenney.nl/assets) ดาวนโหลด Asset ทั้งภาพและเสียงประกอบเกม
 - [https://www.gameart2d.com/freebies.html](https://www.gameart2d.com/freebies.html) ดาวนโหลด Asset ตัวละครและฉากประกอบสำหรับพัฒนาเกม 2D
-- [https://opengameart.org/](https://opengameart.org/) แหล่งรวม Asset ขนาดใหญ่สำหรับพัฒนาเกมแบบ 2D และ 3D แยกประเภทและหมวดหมู่ตามแนวเกม
+- [https://opengameart.org/](https://opengameart.org/) แหล่งรวม Asset ขนาดใหญ่สำหรับพัฒนาเกมแบบ 2D และ 3D
