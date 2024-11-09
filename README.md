@@ -52,7 +52,7 @@
 |![logo](https://skillicons.dev/icons?i=unity)|[สร้างเกมแบบไม่เขียนโค้ดด้วย Unity (Visual Scripting)](https://www.youtube.com/playlist?list=PLEE74DyIkwEm8Zy5LX3QZYEyoQANkvgCg)|  ต้องมีพื้นฐาน Unity |
 
 ## แหล่งดาวน์โหลด Game Assets ฟรี
-**Game Assets** หมายถึง องค์ประกอบต่างๆที่นำมาใช้สำหรับการพัฒนาเกม เช่น ภาพกราฟิก (Sprite) , โมเดล (Model) , เสียง (Sound) , พื้นผิว (Texture) , สภาพแวดล้อม (Environment) , แอนิเมชั่น (Animation) , ฟอนต์ (Fonts) เป็นต้น
+**Game Assets** หมายถึง องค์ประกอบต่างๆที่นำมาใช้สำหรับการพัฒนาเกม เช่น ภาพกราฟิก (Sprite) , โมเดล (Model) , เสียง (Sound) , พื้นผิว (Texture) , สภาพแวดล้อม (Environment) , แอนิเมชั่น (Animation) , ฟอนต์ (Fonts) อื่นๆ เป็นต้น
 
 - [https://free-game-assets.itch.io/](https://free-game-assets.itch.io/) รวบรวมแหล่งเว็บไซต์และ Assets ฟรีแยกเป็นหมวดหมู่สำหรับการพัฒนาเกมแนว 2D 
 - [https://www.kenney.nl/assets](https://www.kenney.nl/assets) ดาวนโหลด Asset ทั้งภาพและเสียงประกอบเกม
