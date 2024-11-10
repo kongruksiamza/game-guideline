@@ -62,6 +62,17 @@
 |![logo](https://skillicons.dev/icons?i=cpp)|[เขียนโปรแกรมภาษา C++ สำหรับผู้เริ่มต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMCKyh_T8R5-Tig78zZrNLst)|  - |
 |![logo](https://skillicons.dev/icons?i=unreal)|[Unreal Engine เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMA1PqviW_cnkhQV6KrU5ztt)|  ต้องมีพื้นฐาน C++ |
 
+## Godot
+Godot คือ Game Engine หรือ เครื่องมือสำหรับการพัฒนาเกมทั้งรูปแบบ 2 มิติและ 3 มิติซึ่งเราสามารถพัฒนาเกมให้ทำงานบน Desktop , Mobile และ Web ได้
+การใช้งาน Godot Engine สามารถใช้งานได้ฟรีไม่เสียค่าใช้จ่าย (Open Source)
+
+### หลักการทำงานของ Godot Engine 
+คือ การนำเอาส่วนที่เรียกว่า Node มาเชื่อมต่อเข้าด้วยกันในลักษณะของทรี (Tree Of Nodes) และจัดกลุ่มการทำงานของโหนดบนส่วนที่เรียกว่า Scene และส่งสัญญาณการทำงานของแต่ละ Node ผ่าน Signal
+
+|เครื่องมือ|หัวข้อ|ข้อกำหนด|
+|:----:|:-------:|:-------------:|
+|![logo](https://skillicons.dev/icons?i=godot)|[Godot Engine เบื้องต้น](https://www.youtube.com/playlist?list=PLEE74DyIkwElcV7C2by5JomU2QXlr_XqP)|  -  |
+
 ## แหล่งดาวน์โหลด Game Assets ฟรี
 **Game Assets** หมายถึง องค์ประกอบต่างๆที่นำมาใช้สำหรับการพัฒนาเกม เช่น ภาพกราฟิก (Sprite) , โมเดล (Model) , เสียง (Sound) , พื้นผิว (Texture) , สภาพแวดล้อม (Environment) , แอนิเมชั่น (Animation) , ฟอนต์ (Fonts) อื่นๆ เป็นต้น
 
