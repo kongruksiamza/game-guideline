@@ -80,6 +80,13 @@ Godot คือ Game Engine หรือ เครื่องมือสำห
 |:----:|:-------:|:-------------:|
 |![logo](https://skillicons.dev/icons?i=python)|[Pygame เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMChq8HEmg28yxDEaxk3DVaa)|  ต้องมีพื้นฐาน Python , OOP |
 
+## JavaScript
+ถ้าต้องการอยากพัฒนาเกม 2 มิติให้ทำงานบนเว็บได้ ภาษา JavaScript ก็เป็นอีกหนึ่งทางเลือกสำหรับนักพัฒนาเกมที่มีพื้นฐานการสร้างเว็บแอพพลิเคชั่น (HTML5 , CSS3 , JavaScript) และต้องการพัฒนาเกมโดยไม่พึ่งพา Game Engine 
+
+|เครื่องมือ|หัวข้อ|ข้อกำหนด|
+|:----:|:-------:|:-------------:|
+|![logo](https://skillicons.dev/icons?i=js)|[สร้างเกมด้วย JavaScript](https://www.youtube.com/playlist?list=PLEE74DyIkwElqTkOY5kQWS0jJksuteC6O)|  ต้องมีพื้นฐาน HTML5,CSS3,JavaScript |
+
 ## แหล่งดาวน์โหลด Game Assets ฟรี
 **Game Assets** หมายถึง องค์ประกอบต่างๆที่นำมาใช้สำหรับการพัฒนาเกม เช่น ภาพกราฟิก (Sprite) , โมเดล (Model) , เสียง (Sound) , พื้นผิว (Texture) , สภาพแวดล้อม (Environment) , แอนิเมชั่น (Animation) , ฟอนต์ (Fonts) อื่นๆ เป็นต้น
 
