@@ -58,7 +58,7 @@
 ### Visual Scripting 
 เป็นระบบที่ Unity พัฒนาขึ้นให้ผู้ที่ไม่มีความรู้เรื่องการเขียนโปรแกรม สามารถพัฒนาเกมได้ง่ายขึ้นโดยใช้วิธีการโยงกราฟ หรือ **การต่อโหนด (Node)** เข้าด้วยกันเพื่อให้ระบบเกมสามารถทำงานได้ 
 
-|เครื่องมือ|หัวข้อ|ข้อกำหนด|
+|Course|หัวข้อ|ข้อกำหนด|
 |:----:|:-------:|:-------------:|
 |![logo](https://skillicons.dev/icons?i=cs)|[เขียนโปรแกรมภาษา C# สำหรับผู้เริ่มต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMAq2fsXLKzGS1eFNxl0-z0I)|  - |
 |![logo](https://skillicons.dev/icons?i=unity)|[Unity เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMDXsV5Dr4DJ_xkLFBpqSg-i)|  ต้องมีพื้นฐาน C# |
@@ -67,7 +67,7 @@
 ## Unreal Engine
 คือ Game Engine สำหรับการพัฒนาเกมรองรับเกมในรูปแบบเกม Desktop , Mobile ,อื่นๆ มีเครื่องมือในการช่วยเหลือนักพัฒนาเกมด้านการเขียน Script โปรแกรม โดยภาษาโปรแกรมที่ใช้เขียนคือ **ภาษา C++** หรือใช้ **Visual Scripting (Blueprint)** ผ่านการโยงกราฟหรือโยงระบบการทำงานของเกม
 
-|เครื่องมือ|หัวข้อ|ข้อกำหนด|
+|Course|หัวข้อ|ข้อกำหนด|
 |:----:|:-------:|:-------------:|
 |![logo](https://skillicons.dev/icons?i=cpp)|[เขียนโปรแกรมภาษา C++ สำหรับผู้เริ่มต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMCKyh_T8R5-Tig78zZrNLst)|  - |
 |![logo](https://skillicons.dev/icons?i=unreal)|[Unreal Engine เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMA1PqviW_cnkhQV6KrU5ztt)|  ต้องมีพื้นฐาน C++ |
@@ -79,21 +79,21 @@ Godot คือ Game Engine หรือ เครื่องมือสำห
 ### หลักการทำงานของ Godot Engine 
 คือ การนำเอาส่วนที่เรียกว่า Node มาเชื่อมต่อเข้าด้วยกันในลักษณะของทรี (Tree Of Nodes) และจัดกลุ่มการทำงานของโหนดบนส่วนที่เรียกว่า Scene และส่งสัญญาณการทำงานของแต่ละ Node ผ่าน Signal
 
-|เครื่องมือ|หัวข้อ|ข้อกำหนด|
+|Course|หัวข้อ|ข้อกำหนด|
 |:----:|:-------:|:-------------:|
 |![logo](https://skillicons.dev/icons?i=godot)|[Godot Engine เบื้องต้น](https://www.youtube.com/playlist?list=PLEE74DyIkwElcV7C2by5JomU2QXlr_XqP)|  -  |
 
 ## Pygame
 ไลบราลีสำหรับการพัฒนาเกม 2 มิติโดยใช้งานร่วมกับ **ภาษาไพธอน (Python)** เป็นอีกหนึ่งทางเลือกสำหรับนักพัฒนาเกมที่มีพื้นฐานการเขียนโปรแกรมภาษา Python และต้องการพัฒนาเกมโดยไม่พึ่งพา Game Engine
 
-|เครื่องมือ|หัวข้อ|ข้อกำหนด|
+|Course|หัวข้อ|ข้อกำหนด|
 |:----:|:-------:|:-------------:|
 |![logo](https://skillicons.dev/icons?i=python)|[Pygame เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMChq8HEmg28yxDEaxk3DVaa)|  ต้องมีพื้นฐาน Python , OOP |
 
 ## JavaScript
 ถ้าต้องการอยากพัฒนาเกม 2 มิติให้ทำงานบนเว็บได้ ภาษา JavaScript ก็เป็นอีกหนึ่งทางเลือกสำหรับนักพัฒนาเกมที่มีพื้นฐานการสร้างเว็บแอพพลิเคชั่น (HTML5 , CSS3 , JavaScript) และต้องการพัฒนาเกมโดยไม่พึ่งพา Game Engine 
 
-|เครื่องมือ|หัวข้อ|ข้อกำหนด|
+|Course|หัวข้อ|ข้อกำหนด|
 |:----:|:-------:|:-------------:|
 |![logo](https://skillicons.dev/icons?i=js)|[สร้างเกมด้วย JavaScript](https://www.youtube.com/playlist?list=PLEE74DyIkwElqTkOY5kQWS0jJksuteC6O)|  ต้องมีพื้นฐาน HTML5,CSS3,JavaScript |
 
